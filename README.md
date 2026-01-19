@@ -6,9 +6,13 @@ The project is currently **under development** and will be updated over time.
 > ⚠️ The website currently uses **minimal CSS styling** and focuses mainly on structure and content.
 
 ## 🚀 How to View the website
+<!--
 ```
    https://paulbinojoseph.github.io/Basic-HTML-Website/
   ```
+  -->
+
+  [![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://paulbinojoseph.github.io/Basic-HTML-Website/)
 
 ## 🚀 Features
 - Responsive layout (basic)
